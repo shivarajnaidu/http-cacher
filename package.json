@@ -1,0 +1,25 @@
+{
+  "name": "http-cacher",
+  "version": "1.0.0",
+  "description": "Simple Express middleware to add http cache using max age header",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivarajnaidu/http-cacher.git"
+  },
+  "keywords": [
+    "http-cache",
+    "cache",
+    "maxage",
+    "http"
+  ],
+  "author": "Yuvaraj V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivarajnaidu/http-cacher/issues"
+  },
+  "homepage": "https://github.com/shivarajnaidu/http-cacher#readme"
+}
